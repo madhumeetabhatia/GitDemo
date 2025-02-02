@@ -11,7 +11,10 @@ public class App
 		System.out.println("Welcome");
 	}	
 	}
-   
+	public void newMethod()
+	{
+	   System.out.println("A New Method added by developer2 in same Application");	
+	}
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
