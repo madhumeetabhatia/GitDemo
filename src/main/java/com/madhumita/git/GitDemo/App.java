@@ -15,9 +15,7 @@ public class App
 	{
 	   System.out.println("A New Method added by developer2 in same Application");	
 	}
-	public void newMethod2() {
-		System.out.println("A New Method added by developer3 in defferent branch");
-	}
+	
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
