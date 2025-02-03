@@ -15,6 +15,10 @@ public class App
 	{
 	   System.out.println("A New Method added by developer2 in same Application");	
 	}
+	public void EntryForm()
+	{
+	   System.out.println("A New Method added by developer3 ");	
+	}
 	
     public static void main( String[] args )
     {
